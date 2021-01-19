@@ -1,20 +1,137 @@
 [
     {
-        "pitanja" : "Akcija u kojoj se ispitivalo porijeklo imovine zvala se: 'Imaš kuću, vrati...'", 
-        "odgovor1": " pare",
-        "odgovor2": "auto",
-        "odgovor3": " ljubavnicu",
-        "odgovor4": "stan",
-        "tacno": 1,
+        "pitanja" : "Koji od navedenih nije otok?", 
+        "odgovor1": "Brač",
+        "odgovor2": "Istra",
+        "odgovor3": "Korčula",
+        "odgovor4": "Rab",
+        "tacno": 2,
         "id": 1
     },
     {
-        "pitanja" : "Akcija u kojoj se ispitivalo porijeklo imovine zvala se: 'Imaš kuću, vrati...'", 
-        "odgovor1": " pare",
-        "odgovor2": "auto",
-        "odgovor3": " ljubavnicu",
-        "odgovor4": "stan",
+        "pitanja" : "Kako se slikovito zove zrakoplov?", 
+        "odgovor1": "čelična ptica",
+        "odgovor2": "zlatna ptica",
+        "odgovor3": "bakrena ptica",
+        "odgovor4": "olovna ptica",
         "tacno": 1,
-        "id": 1
+        "id": 2
+    },
+    {
+        "pitanja" : "Hvatač hvata, bacač baca, udarač udara.Koji je to sport?", 
+        "odgovor1": "odbojka",
+        "odgovor2": "bejzbol",
+        "odgovor3": "hokej",
+        "odgovor4": "nogomet",
+        "tacno": 2,
+        "id": 3
+    },
+    {
+        "pitanja" : "Kojoj vrsti riječi pripada riječ kutomjer?", 
+        "odgovor1": "glagol",
+        "odgovor2": "pridjev",
+        "odgovor3": "imenica",
+        "odgovor4": "prijedlog",
+        "tacno": 3,
+        "id": 4
+    },
+    {
+        "pitanja" : "Kako se zove žabac koji predvodi Muppete?", 
+        "odgovor1": "Ralf",
+        "odgovor2": "Gonzo",
+        "odgovor3": "Kermit",
+        "odgovor4": "Waldorf",
+        "tacno": 3,
+        "id": 5
+    },
+    {
+        "pitanja" : "'Zdenac života' Ivana Meštrovića nalazi se u Zagrebu ispred", 
+        "odgovor1": "burze",
+        "odgovor2": "kazališta",
+        "odgovor3": "vijećnice",
+        "odgovor4": "sabora",
+        "tacno": 2,
+        "id": 6
+    },
+    {
+        "pitanja" : "Latice cvijeta čine vjenčić, a lapovi cvijeta:", 
+        "odgovor1": "čokot",
+        "odgovor2": "lisku",
+        "odgovor3": "grozd",
+        "odgovor4": "čašku",
+        "tacno": 4,
+        "id": 7
+    },
+    {
+        "pitanja" : "Tko se natječe u klasi 'optimist'?", 
+        "odgovor1": "jedriličari",
+        "odgovor2": "sanjkaši",
+        "odgovor3": "motociklisti",
+        "odgovor4": "biciklisti",
+        "tacno": 1,
+        "id": 8
+    },
+    {
+        "pitanja" : "Renesansni ljetnikovac Tvrdalj nalazi se u starom gradu:", 
+        "odgovor1": "Starom Gradu",
+        "odgovor2": "Starigradu",
+        "odgovor3": "Novigradu",
+        "odgovor4": "Biogradu",
+        "tacno": 1,
+        "id": 9
+    },
+    {
+        "pitanja" : "Koliko bajtova ima 1 kilobajt?", 
+        "odgovor1": 1000,
+        "odgovor2": 1104,
+        "odgovor3": 1024,
+        "odgovor4": 1011,
+        "tacno": 3,
+        "id": 10
+    },
+    {
+        "pitanja" : "Koja od navedenih životinja ne spada u skupinu morskih pasa?", 
+        "odgovor1": "bijela psina",
+        "odgovor2": "mlat",
+        "odgovor3": "orka",
+        "odgovor4": "modrulj",
+        "tacno": 3,
+        "id": 11
+    },
+    {
+        "pitanja" : "Na svoje prvo putovanje Kolumbo kreće:", 
+        "odgovor1": 1492,
+        "odgovor2": 1496,
+        "odgovor3": 1497,
+        "odgovor4": 1500,
+        "tacno": 1,
+        "id": 12
+    },
+    {
+        "pitanja" : "Češki su evangelici 1618. 'upriličili' defenestraciju, odnosno bacanje kraljevskoga namjesnika:", 
+        "odgovor1": "pod vlak",
+        "odgovor2": "kroz prozor",
+        "odgovor3": "u živo blato",
+        "odgovor4": "s mosta",
+        "tacno": 2,
+        "id": 13
+    },
+    {
+        "pitanja" : "Kako se još na hrvatskom kaže 'slijepo crijevo'?", 
+        "odgovor1": "crvuljak",
+        "odgovor2": "sljepić",
+        "odgovor3": "visuljak",
+        "odgovor4": "crijevuljak",
+        "tacno": 1,
+        "id": 14
+    },
+    {
+        "pitanja" : "U kojoj državi žive Krašovani?", 
+        "odgovor1": "u Mađarskoj",
+        "odgovor2": "u Poljskoj",
+        "odgovor3": "u Ukrajini",
+        "odgovor4": "u Rumunjskoj",
+        "tacno": 4,
+        "id": 15
     }
 ]
