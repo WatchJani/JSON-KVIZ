@@ -1,0 +1,20 @@
+[
+    {
+        "pitanja" : "Akcija u kojoj se ispitivalo porijeklo imovine zvala se: 'Imaš kuću, vrati...'", 
+        "odgovor1": " pare",
+        "odgovor2": "auto",
+        "odgovor3": " ljubavnicu",
+        "odgovor4": "stan",
+        "tacno": 1,
+        "id": 1
+    },
+    {
+        "pitanja" : "Akcija u kojoj se ispitivalo porijeklo imovine zvala se: 'Imaš kuću, vrati...'", 
+        "odgovor1": " pare",
+        "odgovor2": "auto",
+        "odgovor3": " ljubavnicu",
+        "odgovor4": "stan",
+        "tacno": 1,
+        "id": 1
+    }
+]
