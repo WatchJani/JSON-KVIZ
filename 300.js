@@ -1,1 +1,47 @@
-
+[
+    {
+        "pitanja" : "Koje je godine Titanik potonuo u Atlantski ocean 15. travnja, djevičanskim putovanjem iz Southamptona?", 
+        "odgovor1": "1910",
+        "odgovor2": "1913",
+        "odgovor3": "1911",
+        "odgovor4": "1912",
+        "tacno": 4,
+        "id": 1
+    },
+  {
+        "pitanja" : "Koji je naslov prvog filma Carry On snimljenog i objavljenog 1958.?", 
+        "odgovor1": "Nosi narednika",
+        "odgovor2": "Kosi narednik",
+        "odgovor3": "Carry",
+        "odgovor4": "Carry on",
+        "tacno": 1,
+        "id": 2
+    },
+  {
+        "pitanja" : "Kako se zove najveća tehnološka kompanija u Južnoj Koreji?", 
+        "odgovor1": "Samsung",
+        "odgovor2": "Hyundai Motor",
+        "odgovor3": "SK Holdings",
+        "odgovor4": "POSCO",
+        "tacno": 1,
+        "id": 3
+    },
+   {
+        "pitanja" : "Koji se pjevač suočio s pop-skupom Showaddywaddy iz 1970-ih?", 
+        "odgovor1": "Al James",
+        "odgovor2": "Russ Field",
+        "odgovor3": "Dave Bartram",
+        "odgovor4": "Malcolm Allured",
+        "tacno": 3,
+        "id": 4
+    },
+   {
+        "pitanja" : "Koji je sada poznati TV kuhar počeo kuhati u dobi od osam godina u pubu 'The Cricketers', u Claveringu, Essexu?", 
+        "odgovor1": "Al James",
+        "odgovor2": "Jamie Oliver",
+        "odgovor3": "Kršćanski Kist",
+        "odgovor4": "Paul Dixon",
+        "tacno": 2,
+        "id": 5
+    },
+  ]
