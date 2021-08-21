@@ -16,5 +16,16 @@
         "link":"Matematika",
         "kljcu":"https://raw.githubusercontent.com/WatchJani/JSON-KVIZ/master/matematika.json",
         "id": 2
+    },
+    {
+        "naslov" : "300", 
+        "slika": "https://media.istockphoto.com/illustrations/quiz-test-background-illustration-id1165053177?s=612x612",
+        "diskripcija": "Pokusaj, ovaj je duzi",
+        "skor": "BestScore-300",
+        "link":"300",
+        "kljcu":"https://raw.githubusercontent.com/WatchJani/JSON-KVIZ/master/300.js",
+        "id": 2
     }
+    
+    
   ]
