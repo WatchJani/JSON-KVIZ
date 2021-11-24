@@ -133,5 +133,14 @@
         "odgovor4": "u Rumunjskoj",
         "tacno": 4,
         "id": 15
+    },
+    {
+        "pitanja" : "Glavni grad Bosne i  Hercegovine?", 
+        "odgovor1": "Sarajevo",
+        "odgovor2": "Banja Luka",
+        "odgovor3": "Ljubljana",
+        "odgovor4": "Beograd",
+        "tacno": 1,
+        "id": 16
     }
 ]
